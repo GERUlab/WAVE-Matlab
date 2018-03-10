@@ -1,0 +1,13 @@
+Mamadou SALL
+18/03/09
+
+le module température ccomprte 6 scripts qui sont:
+1. in_initial_temperature
+2. in_temperature_parameter
+3. solve_temperature
+4. store_cmt (script commun pour module temperature et module solute)
+5. in_cmt_profile (script commun pour module temperature et module solute)
+6. draw_cmt (script commun pour module temperature et module solute)
+
+observations:
+la définition de la température de surface est à revoir

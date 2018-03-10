@@ -1,0 +1,25 @@
+Legende: 
+Data_inf: Données Non labour; 
+
+Col 1: Minutes 
+Col 2: NL111 (75 cm profondeur à partir de la surface)
+Col 3: NL112 60 cm profondeur à partir de la surface      
+Col 4: NL113 45 cm profondeur à partir de la surface 
+Col 5: NL114 30 cm profondeur à partir de la surface
+Col 6: 15 cm profondeur à partir de la surface
+Col 7: 77 cm profondeur à partir de la surface
+Col 8: 47 cm profondeur à partir de la surface
+Col 9: 73 cm profondeur à partir de la surface             
+                    NL115   NL121   NL123   NL131       
+        
+Conditions aux limites: 
+ 3cm/jour
+ 
+
+ 
+        
+        colonne1        colonne2        colonne3        colonne4        colonne5        colonne6        colonne7        colonne8        colonne9        colonne10       colonne11
+Minutes 90      75      60      45      30      15      17      73      43      13
+        L110    L111    L112    L113    L114    L115    L125    L131    L133    L135
+Minutes 75      60      45      30      15      77      47      73              
+        NL111   NL112   NL113   NL114   NL115   NL121   NL123   NL131       

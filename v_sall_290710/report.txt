@@ -1,0 +1,16 @@
+26/03/09
+TESTS
+cm initial=40
+boundary solute=0
+lm=0
+	diff=0, kd=0,lm=0: cberr_sol <<<1
+	diff=0, kd=0.5,lm=0: cberr_sol >>>750
+	diff=10,kd=0,lm=0:cberr_sol<<-84
+	diff=10,kd=0.5:cberr_sol=>>>605
+
+lm=10
+
+	diff=0, kd=0: cberr_sol<<-39
+	diff=0, kd=0.5: cberr_sol >>692
+        diff=10,kd=0:cberr_sol<<-122
+	diff=10,kd=0.5:cberr_sol>>>511

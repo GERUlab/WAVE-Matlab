@@ -1,0 +1,37 @@
+Mamadou SALL
+15/10/09
+
+le module solute supporte aussi le volet nitrogen
+il comporte 16 scripts qui sont:
+1. in_initial_solute
+2. in_initial_om
+3. om_applic
+4. in_solute_parameter
+5. in_nitro_om_param
+6. watsol
+7. solute_boundary
+8. solute_sink
+9. miner_immob
+10. rooting_depth
+11. nitro_uptake
+12. nitro_sink
+13. solve_solute
+14. store_cmt (script commun pour module temperature et module solute)
+15. in_cmt_profile (script commun pour module temperature et module solute)
+16. draw_cmt (script commun pour module temperature et module solute)
+
+mêmes formules pour les coefficients de la matrice diagonale que SOLN.FOR (WAVE.FOR).
+nouveau script WATSOL
+
+differences avec version precedente
+scripts supprimés:
+solute_source, solulte_application, solute_source, mineral, denitrif, plant_uptake
+
+scripts nouveaux:
+wat_sol, solute_boundary, solute_sink, miner_immob, nitro_uptake, nitro_sink
+
+observations 
+sucsos n'est pas intégré
+par rapport à hydrus
+le retard du solute est moins important
+le maximum de concentration est plus important 
