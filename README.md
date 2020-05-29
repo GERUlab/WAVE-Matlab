@@ -1,5 +1,5 @@
 # WAVE-Matlab
-Matlab implementation of the WAVE model
+Matlab implementation of the WAVE soil water flow model developed by Mathieu Javaux and Sebastien Lambot
 As used in the Ph D of Sall Mamadou and post-doc study of J Gabriel.
 
 Sall, Mamadou. Transfert de nitrate à travers la zone non saturée du sol vers la nappe phréatique de la zone des Niayes: caractérisation et modélisation. Diss. UCL-Université Catholique de Louvain, 2010.
